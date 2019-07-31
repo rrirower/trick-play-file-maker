@@ -8,7 +8,7 @@ The Trick Play File Maker is a software tool that makes creating [Roku BIF](http
 * Minimum screen resolution: 1366 X 768.
 
 # Installation.
-Please donwload the latest setup file.
+Please download the setup file from the latest branch.
 
 # Support.
 This software is provided "as is".  Software support is avaliable by submitting an "issue".
