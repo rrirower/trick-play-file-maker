@@ -16,7 +16,7 @@ Please download the setup file from the latest branch.
 This software is provided "as is".  Software support is avaliable by submitting an "issue".
 
 # License.
-Please read the licens before using the software.
+Please read the license before using the software.
 
 [![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/trick-play-file-maker2019/blob/master/LICENSE.md)
 
