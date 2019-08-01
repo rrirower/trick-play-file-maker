@@ -1,7 +1,7 @@
 # Trick Play (BIF) File Maker for Roku.
 The Trick Play File Maker is a software tool that makes creating [Roku BIF](https://developer.roku.com/docs/developer-program/media-playback/trick-mode.md) files easy.  Simply add files to a list and click a button to make the associated BIF files.
 
-**NOTE: This software is not endorsed or affiliated with Roku in any way.**
+**NOTE: This software is not endorsed by or affiliated with Roku in any way.**
 
 # Prerequisites
 * 64 Bit Windows: 7, 8, 10.
