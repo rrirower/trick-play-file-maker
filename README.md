@@ -13,7 +13,9 @@ The Trick Play File Maker is a software tool that makes creating [Roku BIF](http
 Please download the setup file from the latest branch.
 
 # Support.
-This software is provided "as is".  Software support is avaliable by submitting an "issue".
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Software support is available by submitting an "issue".
 
 # License.
 Please read the license before using the software.
