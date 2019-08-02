@@ -17,12 +17,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Software support is available by submitting an "issue".  Please attach any files that may help demostrate the "issue".
 
-[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/trick-play-file-maker2019/issues/new)
+[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/trick-play-file-maker/issues/new)
 
 # License.
 Please read the license before using the software.
 
-[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/trick-play-file-maker2019/blob/master/LICENSE.md)
+[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/trick-play-file-maker/blob/master/LICENSE.md)
 
 # Author.
 Michael Harnad
