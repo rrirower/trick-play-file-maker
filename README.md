@@ -16,7 +16,7 @@ Please download the setup file from the latest branch.
 # Support.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-Software support is available by submitting an "issue".  Please attach any files that may help demostrate the "issue".
+Software support is available by submitting an "issue".  Please attach any files that may help demonstrate the "issue".
 
 [![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/trick-play-file-maker/issues/new)
 
