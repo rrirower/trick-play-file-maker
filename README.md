@@ -21,7 +21,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Software support is available by submitting an "issue".  Please attach any files that may help demonstrate the "issue".
 
 [![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/trick-play-file-maker/issues/new)
-[![Generic badge](https://img.shields.io/badge/New-Bug_report-green.svg)](https://github.com/rrirower/trick-play-file-maker/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 
 # License.
 Please read the license before using the software.
