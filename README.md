@@ -10,7 +10,7 @@ The Trick Play File Maker is a software tool that makes creating [Roku BIF](http
 * 9MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
 
-# Installation.
+# Installation
 Please download the setup file from the latest release.
 
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/trick-play-file-maker/releases/latest)
@@ -22,10 +22,10 @@ Software support is available by submitting an "issue".  Please attach any files
 
 [![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/trick-play-file-maker/issues/new)
 
-# License.
+# License
 Please read the license before using the software.
 
 [![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/trick-play-file-maker/blob/master/LICENSE.md)
 
-# Author.
+# Author
 Michael Harnad
