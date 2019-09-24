@@ -13,6 +13,8 @@ The Trick Play File Maker is a software tool that makes creating [Roku BIF](http
 # Installation
 Please download the setup file from the latest release.
 
+**NOTE**: The installer requires permission to create folders on your pc for the software to work.  Please allow the installer to create these folders.  Failure to do so will result in a software failure.
+
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/trick-play-file-maker/releases/latest)
 
 # Support
