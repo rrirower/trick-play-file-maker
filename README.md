@@ -17,6 +17,8 @@ Please download the setup file from the latest release.
 
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/trick-play-file-maker/releases/latest)
 
+[![Github All Releases](https://img.shields.io/github/downloads/rrirower/trick-play-file-maker/total.svg)]()
+
 # Support
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
