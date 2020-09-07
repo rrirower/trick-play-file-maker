@@ -5,9 +5,9 @@ The Trick Play File Maker is a software tool that makes creating [Roku BIF](http
 **NOTE: This software is not endorsed by or affiliated with Roku in any way.**
 
 # Prerequisites
-* 64 Bit Windows: 7, 8, 10.
-* .Net Framework 4.6.
-* 9MB Free Disk Space.
+* 64 Bit Windows: 8, 10.
+* .Net Framework 4.8.
+* 73MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
 
 # Installation
